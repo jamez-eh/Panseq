@@ -3,7 +3,7 @@ package:
   version: "3.1.1"
 
 source:
-  git_url: https://github.com/chadlaing/Panseq.git
+  git_url: https://github.com/jamez-eh/Panseq.git
  
 requirements:
   build:
